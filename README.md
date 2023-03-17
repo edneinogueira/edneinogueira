@@ -28,5 +28,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
  
