@@ -10,8 +10,6 @@
  
   
 </div>
-
-
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
 - 🌱 Estudante de TI na Estácio
 
