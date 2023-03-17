@@ -13,7 +13,7 @@
 
 
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
-- 🌱 Estudante de TI
+- 🌱 Estudante de TI na Estácio
 
 - Pessoal que quer add o **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
