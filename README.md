@@ -1,6 +1,7 @@
 ### Olá! Eu sou Ednei Nogueira 👋
 
 linkedin![image](https://user-images.githubusercontent.com/128185858/226068884-3245fba7-db2a-44b6-a130-50b6e292ff07.png)
+![image](https://user-images.githubusercontent.com/128185858/226069016-4bd24d6c-330d-45fb-9960-b20fa19e7eb8.png)
 
 <div> 
    <a href="https://www.linkedin.com/in/ednei-de-souza-nogueira-4250a826a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
