@@ -1,9 +1,18 @@
 ### Olá! Eu sou Ednei Nogueira 👋
 
+<h4 align="center">
+[! [Selo do Github] (https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)] (https://www.facebook.com/meufacebook/)
+[! [Selo do Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/meuinstagram/)
+[! [Crachá do Linkedin] (https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)] (https://www.linkedin.com/in/meulinkedin/)
+[! [Crachá HackTheBox] (https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)] (https://app.hackthebox.com/profile/meunumero)
+[! [Emblema do Youtube] (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)] (https://www.youtube.com/channel/meucanalyoutube)
+[! [Distintivo da Discórdia] (https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)] (https://discord.gg/meudiscodia)
+[! [Crachá do Telegrama] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)] (https://t.me/meutelegrama)
+
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
 - 🌱 Estudante de TI
 - 📫 Contate-me pelo email: edneinogueia@hotmail.com
-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+- Pessoal que quer add o **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
