@@ -8,6 +8,7 @@
 [! [Emblema do Youtube] (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)] (https://www.youtube.com/channel/meucanalyoutube)
 [! [Distintivo da Discórdia] (https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)] (https://discord.gg/meudiscodia)
 [! [Crachá do Telegrama] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)] (https://t.me/meutelegrama)
+  </h4>
 
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
 - 🌱 Estudante de TI
