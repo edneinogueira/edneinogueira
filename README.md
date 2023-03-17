@@ -1,5 +1,6 @@
 ### Olá! Eu sou Ednei Nogueira 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra)
+(https://github.com/anuraghazra/github-readme-stats)
 <div> 
    <a href="https://www.linkedin.com/in/ednei-de-souza-nogueira-4250a826a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCNDWD5EA9A4W7CF1p_eWaOA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
