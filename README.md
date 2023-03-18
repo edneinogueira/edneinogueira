@@ -30,11 +30,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <br>
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=nord_dark)
 
 [![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira)](https://github.com/edneinogueira/github-readme-stats)
 
-![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=contribs,prs)
+![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)
+
+
 
 ###
  
