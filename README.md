@@ -36,13 +36,13 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 [![](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/edneinogueira/github-readme-stats)
 
-<!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)-->
+<!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)
 
 ![](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
 
 <br>
 <br>
-<!--
+
 <a href="https://github.com/edneinogueira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=github-readme-stats" />
 </a>
@@ -50,5 +50,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=convoychat" />
 </a>
 -->
+
 ###
  
