@@ -42,13 +42,13 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <br>
 <br>
-
+<!--
 <a href="https://github.com/edneinogueira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/edneinogueira/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=convoychat" />
 </a>
-
+-->
 ###
  
