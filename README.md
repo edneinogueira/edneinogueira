@@ -31,11 +31,11 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <br>
 <br>
 
-[![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true)](https://github.com/edneinogueira/github-readme-stats)
+[![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=radical)](https://github.com/edneinogueira/github-readme-stats)
 
 <!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)-->
 
-![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true)
+![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
 
 
 
