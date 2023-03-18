@@ -35,7 +35,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)-->
 
-![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
+![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark&show_owner=true)
 
 
 
