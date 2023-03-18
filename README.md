@@ -11,6 +11,7 @@
   
 </div>
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
+
 - 🌱 Estudante de TI na Estácio
 
 - Pessoal que quer add o **Github Stats:** a API provavelmente saiu do ar nesse período,
