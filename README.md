@@ -27,14 +27,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<br>
-<br>
+
+
 
 [![](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/edneinogueira/github-readme-stats)
 
@@ -42,7 +36,15 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 ![](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
 
+<br>
+<br>
 
+<a href="https://github.com/edneinogueira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/edneinogueira/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edneinogueira&repo=convoychat" />
+</a>
 
 ###
  
