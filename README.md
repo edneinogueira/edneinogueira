@@ -35,8 +35,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/edneinogueira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneinogueira)](https://github.com/edneinogueira/github-readme-stats)
 
 <!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)
