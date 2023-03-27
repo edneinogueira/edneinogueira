@@ -33,16 +33,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-ori
 </div>
 
 <br>
-
- ![](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=tokyonight)(https://github.com/edneinogueira/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneinogueira)](https://github.com/edneinogueira/github-readme-stats)
-
-<!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)
-
-![](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
-
-<br>
 <br>
 
 <a href="https://github.com/edneinogueira/github-readme-stats">
