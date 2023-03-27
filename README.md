@@ -13,7 +13,7 @@
 <br>
 - 🌱 Estudante de Engenharia de Software / Software Engineering
 <br>
-- Pessoal que quer add o **Github Stats:**, basta clicar nesse [tutorial] [(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)]
+- Pessoal que quer add o **Github Stats:**, basta clicar nesse [tutorial] [!(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)]
 
 <div style="display: inline_block">
 <!--
