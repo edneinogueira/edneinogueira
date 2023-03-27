@@ -13,7 +13,7 @@
 <br>
 - 🔭 Trabalho nos Correios do Estado do Rio de Janeiro
 <br>
-- 🌱 Estudante de Engenharia de Software
+- 🌱 Estudante de Engenharia de Software / Software Engineering
 
 - Pessoal que quer add o **Github Stats:**, basta clicar nesse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
