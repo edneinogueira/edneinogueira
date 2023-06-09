@@ -27,13 +27,13 @@
    <img align="center" alt="Ednei-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ednei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ednei-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ednei-NOSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original.
+  <img align="center" alt="Ednei-NOSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original.svg>
 </div>
 
 <br>
  
  [![](https://github-readme-stats.vercel.app/api?username=edneinogueira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/edneinogueira/github-readme-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneinogueira)](https://github.com/edneinogueira/github-readme-stats)
 
 <!--![Ednei's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneinogueira&hide=stars,commits,prs,issues,contribs)
