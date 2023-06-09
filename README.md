@@ -27,7 +27,7 @@
    <img align="center" alt="Ednei-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ednei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ednei-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ednei-NOSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original.svg>
+  
 </div>
 
 <br>
